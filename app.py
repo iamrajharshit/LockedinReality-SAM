@@ -1,21 +1,14 @@
 import chainlit as cl
-import google.generativeai as genai
-API_KEY = "AIzaSyAezKZT5ODtVc6bczVqg2FWQZ2YSIerbbY"
-
-@cl.on_chat_start
-def on_chat_start():
-    print("A new chat session has started!")
+from src.llm import ask_order, history
 
 @cl.on_message
 async def main(message: cl.Message):
     # Your custom logic goes here..
-
-    genai.configure(api_key=API_KEY)
-    model = genai.GenerativeModel('gemini-pro')
-    response = model.generate_content(message.content)
-
+    #history.append({"role": "user", "text": message.content})
+    response=ask_order(message.content)
+    #history.append({"role": "model", "text": response})
     await cl.Message(
-        content=response.text
+        content=response
     ).send()
 
     

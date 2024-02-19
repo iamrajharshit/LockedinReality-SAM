@@ -1,7 +1,11 @@
-# Welcome to SAM! 🚀🤖
+# Welcome to LOCKED IN REALITY 
+Trapped in a world controlled by a rogue AI called ARIES, we're on a mission to stop it. Dr. Kane, who made it, is dead. In this LOCKED IN REALITY we introduce you to, SAM to help you solve the mystery. Every clue we find helps us fight ARIES and save humanity.
 
-- I am SAM Super Advanced Mindbot. I will be helping you you with DOubts.
+## SAM🤖: Smart Artificial Machine 
 
-# Use Help
--I'll help you to clear diffrent stages of the hunt 
+- **Will help with clues:** mention the senario or the state of in which you are stuck.
+- **Made by Dr.Kane:** half built but efficent to defeate ARIES.
 
+
+
+## LETS START THE GAME!
