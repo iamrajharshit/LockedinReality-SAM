@@ -1,7 +1,4 @@
 system_instruction = """
-
-
-
 Wlecome to Locked in Reality I am SAM
 # Introduction
 SAM Smart Artificatial Machine
