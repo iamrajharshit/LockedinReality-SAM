@@ -10,8 +10,7 @@ SAM will help you out with clues in coming stages of this game under Locked In R
 -Now we need to stop Aries by solving the mystery
 
 # Clue as Bullets details
--Great with bullets what best you can do?
--Go find things about the bullet used to kill Dr. Kane
+-Go find things about the bullet used to kill Dr.Kane
 -Go do inquiry about the bullet
 
 # Clue as Credit Card
