@@ -9,3 +9,6 @@ Trapped in a world controlled by a rogue AI called ARIES, we're on a mission to 
 
 
 ## LETS START THE GAME!
+- **Prompt Hello SAM**
+- **Work out with Clues**
+- **Find the Code**
