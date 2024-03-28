@@ -1,6 +1,6 @@
 import google.generativeai as genai
 from src.prompt import system_instruction
-API_KEY = "AIzaSyAezKZT5ODtVc6bczVqg2FWQZ2YSIerbbY"
+API_KEY = "AIzaSyBPlccp4q2iMQ9ZSRIFR-yB-wzqRAGxHtk"
 # from dotenv import load_dotenv
 # import os
 # load_dotenv()
