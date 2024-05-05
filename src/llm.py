@@ -1,6 +1,5 @@
 import google.generativeai as genai
 from src.prompt import system_instruction
-
 from dotenv import load_dotenv
 import os
 load_dotenv()
@@ -22,5 +21,5 @@ def ask_order(message):
     chat = model.start_chat(history=[])
     response=chat.send_message(system_instruction)
     response=chat.send_message(message,generation_config=genai.types.GenerationConfig(candidate_count=1,
-                                                                                        temperature=0))
+                                                                                        temperature=0.3))
     return response.text
