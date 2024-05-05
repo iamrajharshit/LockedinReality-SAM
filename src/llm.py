@@ -1,16 +1,15 @@
 import google.generativeai as genai
 from src.prompt import system_instruction
-API_KEY = "AIzaSyBNCqnE-u2AgeafP9B3lczy1x9P7n8rcp4"
-# from dotenv import load_dotenv
-# import os
-# load_dotenv()
+from dotenv import load_dotenv
+import os
+load_dotenv()
 
 history = [
     {"text": system_instruction,"role": "user"}
 ]
 
 def ask_order(message):
-    genai.configure(api_key=API_KEY)
+    genai.configure(api_key=os.environ['API_KEY'])
     model = genai.GenerativeModel('gemini-pro',safety_settings=[
         {"category":'HARM_CATEGORY_HARASSMENT',
                              "threshold":'BLOCK_NONE'},
