@@ -1,4 +1,4 @@
-# Personalized Chat APP "SAM"
+# "SAM" AI Assistant
 SAM a Smart Artifical Machine Chat Bot made for the game Locked in Reality.
 Helped users to solve clues, based on their story line as per the game.
 
