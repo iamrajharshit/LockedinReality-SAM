@@ -5,10 +5,15 @@ Trapped in a world controlled by a rogue AI called ARIES, we're on a mission to 
 
 - **Will help with clues:** mention the senario or the state of in which you are stuck.
 - **Made by Dr.Kane:** half built but efficent to defeate ARIES.
+- **GET the Code:** Last stage search for the code. 
 
+
+**Prompt**
+- Use key words like "Clue"
+- Use Locations
 
 
 ## LETS START THE GAME!
-- **Prompt Hello SAM**
-- **Work out with Clues**
-- **Find the Code**
+- **Prompt Hello SAM!**
+ 
+
