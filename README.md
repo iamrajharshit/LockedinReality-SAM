@@ -8,9 +8,9 @@ Helped users to solve clues, based on their story line as per the game.
 - What is ARIES
 - What is Locked in Reality
 - What to do with clues like Bullets, Secret Camera, Number Plate, Eye Witness...
-### Maps:
+-  Maps:
 <img src="https://github.com/iamrajharshit/LockedinReality-SAM/blob/main/maps/Nitte%20map.png" alt="Nitte Map" title="Nitte Map">
-<center></Center><img src="https://github.com/iamrajharshit/LockedinReality-SAM/blob/main/maps/SMV%20block%20map.png" alt="SMV Block floor wise Layout" title="SMV Block floor wise Layout"></center>
+<center><img src="https://github.com/iamrajharshit/LockedinReality-SAM/blob/main/maps/SMV%20block%20map.png" alt="SMV Block floor wise Layout" title="SMV Block floor wise Layout"></center>
 
 ### Tech used:
 - Google GenAI Gemini Pro LLM
