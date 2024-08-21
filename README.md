@@ -12,10 +12,8 @@ Helped users to solve clues, based on their story line as per the game.
 
 ## User Experience
 <video>
-  <source src="https://github.com/iamrajharshit/LockedinReality-SAM/blob/main/video/Chat%20Experience.mov" type="video/mp4">
+<source src="https://github.com/iamrajharshit/LockedinReality-SAM/blob/main/video/chat%20experience.mov">
 </video>
-
-
 ### Maps:
 Map Based on storyline.
 
