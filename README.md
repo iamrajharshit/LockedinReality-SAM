@@ -1,4 +1,4 @@
-# Personalized Chat APP "SAM"
+# "SAM" AI Assistant
 SAM a Smart Artifical Machine Chat Bot made for the game Locked in Reality.
 Helped users to solve clues, based on their story line as per the game.
 
@@ -11,6 +11,8 @@ Helped users to solve clues, based on their story line as per the game.
 - Locations on Maps.
 
 ### Maps:
+Map Based on storyline.
+
 <img src="https://github.com/iamrajharshit/LockedinReality-SAM/blob/main/maps/Nitte%20map.png" alt="Nitte Map" title="Nitte Map">
 <center><img src="https://github.com/iamrajharshit/LockedinReality-SAM/blob/main/maps/SMV%20block%20map.png" alt="SMV Block floor wise Layout" title="SMV Block floor wise Layout"></center>
 
