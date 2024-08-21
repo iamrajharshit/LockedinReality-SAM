@@ -11,9 +11,13 @@ Helped users to solve clues, based on their story line as per the game.
 - Locations on Maps.
 
 ## User Experience
-<video>
-<source src="https://github.com/iamrajharshit/LockedinReality-SAM/blob/main/video/chat%20experience.mov">
+
+Here is a demonstration video:
+
+<video width="600" controls>
+  <source src="video/chat_experience.mp4" type="video/mp4">
 </video>
+
 ### Maps:
 Map Based on storyline.
 
