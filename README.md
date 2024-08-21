@@ -14,9 +14,8 @@ Helped users to solve clues, based on their story line as per the game.
 
 Here is a demonstration video:
 
-<video width="600" controls>
-  <source src="video/chat_experience.mp4" type="video/mp4">
-</video>
+https://github.com/iamrajharshit/LockedinReality-SAM/raw/main/video/chat_experience.mp4
+
 
 ### Maps:
 Map Based on storyline.
