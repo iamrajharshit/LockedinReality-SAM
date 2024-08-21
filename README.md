@@ -10,6 +10,9 @@ Helped users to solve clues, based on their story line as per the game.
 - What to do with clues like Bullets, Secret Camera, Number Plate, Eye Witness...
 - Locations on Maps.
 
+## User Experience
+https://github.com/iamrajharshit/LockedinReality-SAM/blob/main/video/user%20exp.mp4
+
 ### Maps:
 Map Based on storyline.
 
