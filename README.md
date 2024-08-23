@@ -14,7 +14,8 @@ Helped users to solve clues, based on their story line as per the game.
 
 Here is a demonstration video:
 
-[Watch Demo](https://github.com/iamrajharshit/LockedinReality-SAM/raw/main/video/chat_experience.mp4)
+![chat experience](https://github.com/user-attachments/assets/90e6b876-993b-4fc3-b338-2c9a95c1b374)
+
 
 
 ### Maps:
