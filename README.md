@@ -4,7 +4,7 @@ SAM: Smart Artifical Machine Chat Bot made for the Tech Event Locked in Reality 
 - Helped users to solve clues, based on their storyline in the treasure hut, across the campus.
 
 
-## Talk to [SAM](https://lockedinrealitysam.onrender.com/)
+## Talk to 🤖: [SAM](https://lockedinrealitysam.onrender.com/)
 ### Ask him:
 - Who is Dr Kane's Death?
 - What is ARIES?
