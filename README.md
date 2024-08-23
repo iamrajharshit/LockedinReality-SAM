@@ -6,7 +6,7 @@ SAM: Smart Artifical Machine Chat Bot made for the Tech Event Locked in Reality 
 
 ## Talk to 🤖: [SAM](https://lockedinrealitysam.onrender.com/)
 ### Ask him:
-- Who is Dr Kane's Death?
+- Who is Dr Kane?
 - What is ARIES?
 - What is Locked in Reality?
 - What to do with clues like Bullets, Credit Card, Secret Camera, Number Plate, Eye Witness..?
