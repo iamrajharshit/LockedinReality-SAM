@@ -25,6 +25,8 @@ Here is a demonstration video:
 ### Maps:
 Map Based on the storyline.
 
-<img src="https://github.com/iamrajharshit/LockedinReality-SAM/blob/main/maps/Nitte%20map.png" alt="Nitte Map" title="Nitte Map">
-<center><img src="https://github.com/iamrajharshit/LockedinReality-SAM/blob/main/maps/SMV%20block%20map.png" alt="SMV Block floor wise Layout" title="SMV Block floor wise Layout"></center>
+- [SMV Block floor wise Layout](https://github.com/iamrajharshit/LockedinReality-SAM/blob/main/maps/SMV%20block%20map.png) 
+- [Nitte Campus Map](https://github.com/iamrajharshit/LockedinReality-SAM/blob/main/maps/Nitte%20map.png)
+
+
 
