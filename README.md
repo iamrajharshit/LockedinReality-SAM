@@ -4,9 +4,9 @@ SAM: Smart Artifical Machine Chat Bot made for the Tech Event Locked in Reality 
 - Helped users to solve clues, based on their storyline in the treasure hut, across the campus.
 
 ## Tech used:
-- [Google GenAI Gemini Pro](https://ai.google/discover/generativeai) : LLM used to generate responses based on system instruction.
+- [Google GenAI Gemini Pro](https://ai.google/discover/generativeai) : LLM model used to generate responses based on system instructions (our story).
 - [Chainlit](https://docs.chainlit.io/get-started/) : Python framework for chat interface.
-- [Render](https://docs.render.com/): Free deployment.
+- [Render](https://docs.render.com/) : Free deployment.
 
 ## Talk to 🤖: [SAM](https://lockedinrealitysam.onrender.com/)
 ### Ask him:
