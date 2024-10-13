@@ -8,6 +8,9 @@ SAM: Smart Artifical Machine Chat Bot made for the Tech Event Locked in Reality 
 - [Chainlit](https://docs.chainlit.io/get-started/) : Python framework for chat interface.
 - [Render](https://docs.render.com/) : Free deployment.
 
+## Workflow:
+![Arch](https://github.com/iamrajharshit/LockedinReality-SAM/blob/main/video/LIR%20workflow.jpg)
+
 ## Talk to 🤖: [SAM](https://lockedinrealitysam.onrender.com/)
 ### Ask him:
 - Who is Dr Kane?
